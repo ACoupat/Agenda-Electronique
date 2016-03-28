@@ -1,0 +1,846 @@
+# depslib dependency file v1.0
+1399547669 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\ajoutevt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"AjoutEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1399661483 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\structures.h
+
+1399559265 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\lignefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1399547914 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\affichedate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"time.h"
+
+1399661482 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"ExtraitLigne.h"
+	"AfficheEvt.h"
+	"FonctionsAffichage.h"
+	<windows.h>
+
+1399547647 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\ajoutevt.h
+
+1399545695 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\lignefichier.h
+
+1398250208 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\affichedate.h
+
+1398033499 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\affichemenu.h
+
+1399634478 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\affichemenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1399547647 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\remplievt.h
+
+1399646318 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\remplievt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1399640437 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\afficheevt.c
+
+1399717567 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\extraitligne.c
+	<stdio.h>
+	<stdlib.h>
+
+1399634819 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\extraitligne.h
+
+1399633558 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\afficheevt.h
+
+1399641150 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\fonctionsaffichage.c
+
+1399634271 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\ajoutevt v1\fonctionsaffichage.h
+
+1399547914 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\affichedate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"time.h"
+
+1399661483 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\structures.h
+
+1399547647 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\remplievt.h
+
+1399545695 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\lignefichier.h
+
+1398250208 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\affichedate.h
+
+1398033499 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\affichemenu.h
+
+1399905161 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\afficheevt.c
+
+1399634478 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\affichemenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1399717567 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\extraitligne.c
+	<stdio.h>
+	<stdlib.h>
+
+1399641150 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\fonctionsaffichage.c
+
+1399905161 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\lignefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1399906636 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"ExtraitLigne.h"
+	"AfficheEvt.h"
+	"FonctionsAffichage.h"
+	<windows.h>
+
+1399634819 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\extraitligne.h
+
+1399633558 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\afficheevt.h
+
+1399634271 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\fonctionsaffichage.h
+
+1399906795 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\remplievt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1399906145 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\afficheliste.c
+	<stdio.h>
+	<stdlib.h>
+
+1399907199 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v1\demande_critere.c
+
+1399547914 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\affichedate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"time.h"
+
+1400017197 c:\users\clément\documents\if12\projet v1(1)\projet v1\structures.h
+
+1400017992 c:\users\clément\documents\if12\projet v1(1)\projet v1\remplievt.h
+
+1399545696 c:\users\clément\documents\if12\projet v1(1)\projet v1\lignefichier.h
+
+1398250208 c:\users\clément\documents\if12\projet v1(1)\projet v1\affichedate.h
+
+1398033500 c:\users\clément\documents\if12\projet v1(1)\projet v1\affichemenu.h
+
+1400075482 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\afficheevt.c
+	"FonctionsAffichage.h"
+
+1399930830 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\afficheliste.c
+	<stdio.h>
+	<stdlib.h>
+	"FonctionsAffichage.h"
+
+1399634272 c:\users\clément\documents\if12\projet v1(1)\projet v1\fonctionsaffichage.h
+
+1400072343 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\affichemenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"MAJ.h"
+
+1400073112 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\demande_critere.c
+	<string.h>
+
+1399717568 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\extraitligne.c
+	<stdio.h>
+	<stdlib.h>
+
+1399641152 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\fonctionsaffichage.c
+
+1399905162 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\lignefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1400074924 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"ExtraitLigne.h"
+	"AfficheEvt.h"
+	"FonctionsAffichage.h"
+	<windows.h>
+	"vide_buffer.h"
+
+1399634820 c:\users\clément\documents\if12\projet v1(1)\projet v1\extraitligne.h
+
+1399633560 c:\users\clément\documents\if12\projet v1(1)\projet v1\afficheevt.h
+
+1400018454 c:\users\clément\documents\if12\projet v1(1)\projet v1\vide_buffer.h
+
+1400074667 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\remplievt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"vide_buffer.h"
+	"MAJ.h"
+
+1400018499 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\vide_buffer.c
+	<stdio.h>
+	<stdlib.h>
+
+1400072292 c:\users\clément\documents\if12\projet v1(1)\projet v1\maj.h
+
+1400072464 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\suppevt.c
+	<stdio.h>
+	<stdlib.h>
+
+1400074339 source:c:\users\clément\documents\if12\projet v1(1)\projet v1\maj.c
+	<string.h>
+
+1401285129 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\affichedate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"time.h"
+
+1401289535 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\structures.h
+
+1401285129 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\remplievt.h
+
+1401368430 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\lignefichier.h
+
+1401285172 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\affichedate.h
+
+1400506736 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\affichemenu.h
+
+1401284460 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\afficheevt.c
+	"FonctionsAffichage.h"
+
+1399634272 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\fonctionsaffichage.h
+
+1401382443 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\afficheliste.c
+	<stdio.h>
+	<stdlib.h>
+	"FonctionsAffichage.h"
+	"IsNumeric.h"
+
+1401283733 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\affichemenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"MAJ.h"
+
+1400072292 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\maj.h
+
+1401381689 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\extraitligne.c
+	<stdio.h>
+	<stdlib.h>
+
+1401283733 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\fonctionsaffichage.c
+
+1401283733 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\lignefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1401383015 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"ExtraitLigne.h"
+	"AfficheEvt.h"
+	"FonctionsAffichage.h"
+	"vide_buffer.h"
+	"Nb_evt.h"
+	"MAJ.h"
+	"AfficheListe.h"
+	"suppEvt.h"
+
+1399634820 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\extraitligne.h
+
+1399633560 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\afficheevt.h
+
+1400018454 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\vide_buffer.h
+
+1400074339 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\maj.c
+	<string.h>
+
+1401288960 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\remplievt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"vide_buffer.h"
+	"MAJ.h"
+	"controle.h"
+	<time.h>
+
+1400928530 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\suppevt.c
+	<stdio.h>
+	<stdlib.h>
+
+1400018499 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\vide_buffer.c
+	<stdio.h>
+	<stdlib.h>
+
+1401283892 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\nb_evt.c
+	<stdlib.h>
+	<stdio.h>
+
+1401288793 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\controle.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"vide_buffer.h"
+
+1401287346 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\controle.h
+
+1401367025 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\isnumeric.c
+
+1401365910 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\isnumeric.h
+
+1400506654 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\nb_evt.h
+
+1401368973 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\afficheliste.h
+
+1400928496 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\projet v2\projet v2\suppevt.h
+
+1401285130 source:c:\users\clément\downloads\projet v3.1\projet v3.1\affichedate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"time.h"
+
+1401289536 c:\users\clément\downloads\projet v3.1\projet v3.1\structures.h
+
+1401285130 c:\users\clément\downloads\projet v3.1\projet v3.1\remplievt.h
+
+1401368432 c:\users\clément\downloads\projet v3.1\projet v3.1\lignefichier.h
+
+1401285174 c:\users\clément\downloads\projet v3.1\projet v3.1\affichedate.h
+
+1400506738 c:\users\clément\downloads\projet v3.1\projet v3.1\affichemenu.h
+
+1401284462 source:c:\users\clément\downloads\projet v3.1\projet v3.1\afficheevt.c
+	"FonctionsAffichage.h"
+
+1399634272 c:\users\clément\downloads\projet v3.1\projet v3.1\fonctionsaffichage.h
+
+1401283734 source:c:\users\clément\downloads\projet v3.1\projet v3.1\affichemenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"MAJ.h"
+
+1400072294 c:\users\clément\downloads\projet v3.1\projet v3.1\maj.h
+
+1401558535 source:c:\users\clément\downloads\projet v3.1\projet v3.1\controle.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"vide_buffer.h"
+
+1400018456 c:\users\clément\downloads\projet v3.1\projet v3.1\vide_buffer.h
+
+1401381690 source:c:\users\clément\downloads\projet v3.1\projet v3.1\extraitligne.c
+	<stdio.h>
+	<stdlib.h>
+
+1401283734 source:c:\users\clément\downloads\projet v3.1\projet v3.1\fonctionsaffichage.c
+
+1401367026 source:c:\users\clément\downloads\projet v3.1\projet v3.1\isnumeric.c
+
+1401283734 source:c:\users\clément\downloads\projet v3.1\projet v3.1\lignefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1401557795 source:c:\users\clément\downloads\projet v3.1\projet v3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"ExtraitLigne.h"
+	"AfficheEvt.h"
+	"FonctionsAffichage.h"
+	"vide_buffer.h"
+	"Nb_evt.h"
+	"MAJ.h"
+	"AfficheListe.h"
+	"suppEvt.h"
+
+1399634820 c:\users\clément\downloads\projet v3.1\projet v3.1\extraitligne.h
+
+1399633560 c:\users\clément\downloads\projet v3.1\projet v3.1\afficheevt.h
+
+1400506656 c:\users\clément\downloads\projet v3.1\projet v3.1\nb_evt.h
+
+1401368974 c:\users\clément\downloads\projet v3.1\projet v3.1\afficheliste.h
+
+1400928498 c:\users\clément\downloads\projet v3.1\projet v3.1\suppevt.h
+
+1401558535 source:c:\users\clément\downloads\projet v3.1\projet v3.1\maj.c
+	<string.h>
+
+1401558619 source:c:\users\clément\downloads\projet v3.1\projet v3.1\nb_evt.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1401558448 source:c:\users\clément\downloads\projet v3.1\projet v3.1\remplievt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"vide_buffer.h"
+	"MAJ.h"
+	"controle.h"
+	<time.h>
+
+1401287348 c:\users\clément\downloads\projet v3.1\projet v3.1\controle.h
+
+1400928532 source:c:\users\clément\downloads\projet v3.1\projet v3.1\suppevt.c
+	<stdio.h>
+	<stdlib.h>
+
+1401558501 source:c:\users\clément\downloads\projet v3.1\projet v3.1\vide_buffer.c
+	<stdio.h>
+	<stdlib.h>
+
+1401558937 source:c:\users\clément\downloads\projet v3.1\projet v3.1\afficheliste.c
+	<stdio.h>
+	<stdlib.h>
+	"FonctionsAffichage.h"
+	"IsNumeric.h"
+	<string.h>
+
+1401365912 c:\users\clément\downloads\projet v3.1\projet v3.1\isnumeric.h
+
+1401820007 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\extraitligne.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1401820045 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\fonctionsaffichage.c
+	<stdio.h>
+	<stdlib.h>
+
+1401820050 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\isnumeric.c
+
+1401820054 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\lignefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1401563399 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\structures.h
+
+1401285130 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\remplievt.h
+
+1401368432 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\lignefichier.h
+
+1401285174 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\affichedate.h
+
+1401563447 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\affichemenu.h
+
+1401820115 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\maj.c
+	<string.h>
+	<ctype.h>
+
+1401820120 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\nb_evt.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1401820130 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\remplievt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"vide_buffer.h"
+	"MAJ.h"
+	"controle.h"
+	<time.h>
+
+1400018456 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\vide_buffer.h
+
+1400072294 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\maj.h
+
+1401287348 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\controle.h
+
+1401820136 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\suppevt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AfficheMenu.h"
+
+1401820140 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\vide_buffer.c
+	<stdio.h>
+	<stdlib.h>
+
+1401731733 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\affichedate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"time.h"
+
+1401819589 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\afficheevt.c
+	"FonctionsAffichage.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1399634272 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\fonctionsaffichage.h
+
+1401819610 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\afficheliste.c
+	<stdio.h>
+	<stdlib.h>
+	"FonctionsAffichage.h"
+	"IsNumeric.h"
+	<string.h>
+	"vide_buffer.h"
+
+1401365912 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\isnumeric.h
+
+1401819785 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\affichemenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"MAJ.h"
+	"FonctionsAffichage.h"
+	<conio.h>
+
+1401820062 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"ExtraitLigne.h"
+	"AfficheEvt.h"
+	"FonctionsAffichage.h"
+	"vide_buffer.h"
+	"Nb_evt.h"
+	"MAJ.h"
+	"AfficheListe.h"
+	"suppEvt.h"
+
+1399634820 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\extraitligne.h
+
+1399633560 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\afficheevt.h
+
+1400506656 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\nb_evt.h
+
+1401368974 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\afficheliste.h
+
+1400928498 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\suppevt.h
+
+1401819938 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\projet v3.2\controle.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"vide_buffer.h"
+
+1401731733 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\affichedate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"time.h"
+
+1401563399 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\structures.h
+
+1401285130 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\remplievt.h
+
+1401368432 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\lignefichier.h
+
+1401285174 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\affichedate.h
+
+1401563447 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\affichemenu.h
+
+1401819589 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\afficheevt.c
+	"FonctionsAffichage.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1399634272 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\fonctionsaffichage.h
+
+1401819610 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\afficheliste.c
+	<stdio.h>
+	<stdlib.h>
+	"FonctionsAffichage.h"
+	"IsNumeric.h"
+	<string.h>
+	"vide_buffer.h"
+
+1401365912 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\isnumeric.h
+
+1400018456 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\vide_buffer.h
+
+1401819785 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\affichemenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"MAJ.h"
+	"FonctionsAffichage.h"
+	<conio.h>
+
+1400072294 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\maj.h
+
+1401819938 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\controle.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"vide_buffer.h"
+
+1401820007 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\extraitligne.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1401820045 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\fonctionsaffichage.c
+	<stdio.h>
+	<stdlib.h>
+
+1401820050 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\isnumeric.c
+
+1401820054 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\lignefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+
+1401820062 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"ExtraitLigne.h"
+	"AfficheEvt.h"
+	"FonctionsAffichage.h"
+	"vide_buffer.h"
+	"Nb_evt.h"
+	"MAJ.h"
+	"AfficheListe.h"
+	"suppEvt.h"
+
+1399634820 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\extraitligne.h
+
+1399633560 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\afficheevt.h
+
+1400506656 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\nb_evt.h
+
+1401368974 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\afficheliste.h
+
+1400928498 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\suppevt.h
+
+1401820115 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\maj.c
+	<string.h>
+	<ctype.h>
+
+1401820120 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\nb_evt.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1401820130 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\remplievt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"RempliEvt.h"
+	"LigneFichier.h"
+	"AfficheDate.h"
+	"AfficheMenu.h"
+	"vide_buffer.h"
+	"MAJ.h"
+	"controle.h"
+	<time.h>
+
+1401287348 d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\controle.h
+
+1401820136 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\suppevt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AfficheMenu.h"
+
+1401820140 source:d:\mes documents\utbm\tc02\if12\projets c\projet agenda electronique\version finale\bareth_coupat\vide_buffer.c
+	<stdio.h>
+	<stdlib.h>
+

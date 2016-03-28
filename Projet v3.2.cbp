@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Agenda electronique BARETH COUPAT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/EssaisProjet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/EssaisProjet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AfficheDate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AfficheDate.h" />
+		<Unit filename="AfficheEvt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AfficheEvt.h" />
+		<Unit filename="AfficheListe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AfficheListe.h" />
+		<Unit filename="AfficheMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AfficheMenu.h" />
+		<Unit filename="ExtraitLigne.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ExtraitLigne.h" />
+		<Unit filename="FonctionsAffichage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FonctionsAffichage.h" />
+		<Unit filename="IsNumeric.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="IsNumeric.h" />
+		<Unit filename="LigneFichier.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LigneFichier.h" />
+		<Unit filename="MAJ.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MAJ.h" />
+		<Unit filename="Nb_evt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Nb_evt.h" />
+		<Unit filename="RempliEvt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RempliEvt.h" />
+		<Unit filename="Structures.h" />
+		<Unit filename="controle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="controle.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="suppEvt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="suppEvt.h" />
+		<Unit filename="vide_buffer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vide_buffer.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

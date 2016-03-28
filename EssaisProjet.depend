@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1399545695 source:d:\mes documents\utbm\tc02\if12\projets c\essaisprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+	"AjoutEvt.h"
+	"LigneFichier.h"
+
+1399543243 d:\mes documents\utbm\tc02\if12\projets c\essaisprojet\structures.h
+
+1399544917 source:d:\mes documents\utbm\tc02\if12\projets c\essaisprojet\ajoutevt.c
+	"Structures.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1399546025 source:d:\mes documents\utbm\tc02\if12\projets c\essaisprojet\lignefichier.c
+	"Structures.h"
+	<stdio.h>
+	<stdlib.h>
+
+1399544844 d:\mes documents\utbm\tc02\if12\projets c\essaisprojet\ajoutevt.h
+
+1399545695 d:\mes documents\utbm\tc02\if12\projets c\essaisprojet\lignefichier.h
+
